@@ -2,9 +2,9 @@ import { MapPin, Building2, ShieldCheck, CheckCircle2 } from "lucide-react";
 
 export default function Sobre() {
     return (
-        <div className="flex flex-col min-h-screen pt-20">
+        <div className="flex flex-col min-h-screen">
             {/* Header Banner */}
-            <section className="bg-slate-900 text-white py-20 px-4 text-center">
+            <section className="bg-slate-900 text-white pt-40 pb-20 px-4 text-center">
                 <h1 className="text-4xl md:text-5xl font-black mb-4">Conheça a Cred 171</h1>
                 <p className="text-slate-400 text-lg max-w-2xl mx-auto">
                     Somos uma Fintech focada em transformar a forma como os brasileiros acessam o crédito, com inovação e transparência.
